@@ -1,0 +1,29 @@
+.Hangman {
+  width: 80%;
+  margin-top: 2%;
+}
+.image{
+  margin-left: 3%;
+}
+.head{
+  font-size: 300%;
+  color: red;
+  font-weight: bolder;
+}
+.guess{
+  font-size: 170%;
+  font-weight: bold;
+  color: darkgreen;
+}
+.data{
+  font-size: 200%;
+  font-weight: bold;
+  color: red;
+}
+
+.btn{
+  margin-bottom: 10%;
+}
+.foot{
+  font-size: 200%;
+}
