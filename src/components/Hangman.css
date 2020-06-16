@@ -2,6 +2,10 @@
   width: 80%;
   margin-top: 2%;
 }
+.image{
+  max-width: 35%;
+  /* max-height: 100%; */
+}
 .head{
   font-size: 300%;
   color: red;
@@ -23,4 +27,6 @@
 }
 .foot{
   font-size: 200%;
+  padding-bottom: 2.5%;
+  background-color: #282c34;
 }
